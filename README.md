@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou o Emanoel Júnior, sou um Programador Front End, atualmente estou aprendendo e criando projetos com:
+Eu sou o Emanoel Júnior, sou um Programador Front End, atualmente crio projetos usando:
 <br>
 <br>
 
