@@ -1,7 +1,7 @@
 ## Olá, eu sou Emanoel Júnior
 
 - 🔭 Trabalho como Desenvolvedor Full-Stack!
-- 🌱 Atualmente estou estudando React Native!
+- 🌱 Atualmente estou aprendendo React Native!
 
 <div>
 <a href="https://github.com/emanoeljunior21">
