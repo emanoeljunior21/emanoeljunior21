@@ -1,28 +1,45 @@
-## Olá, eu sou Emanoel Júnior
+# 👋 Fala aí, eu sou o Emanoel Junior  
 
-- 🔭 Trabalho como Desenvolvedor Front-End!
-- 🌱 Atualmente estou estudando React Native!
+🎨 Desenvolvedor **Front-End** | React • TypeScript • JavaScript  
+🚀 Apaixonado por criar interfaces modernas, responsivas e acessíveis  
 
-<div>
-<a href="https://github.com/emanoeljunior21">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=emanoeljunior21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeljunior21&layout=compact&langs_count=16&theme=dracula"/>
-</div>
+---
 
+## 🛠️ Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled-Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="empjr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="empjr-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="empjr-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="empjr-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  align="center" alt="empjr-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg">    
-</div>
+---
 
+## 📌 Projetos em Destaque
+✨ Alguns front-ends que valem a visita:
 
-##
+- [**UI Clone – Instagram**](link_repo)  
+  Clone responsivo da interface do Instagram com React e Styled-Components.  
 
-<div>
-  <a href="https://www.instagram.com/empjr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="emanoeljuniordev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+- [**Dashboard Admin**](link_repo)  
+  Painel administrativo completo em React + Tailwind, consumindo API fake.  
 
+- [**Portfólio Interativo**](link_repo)  
+  Meu portfólio pessoal com animações e design responsivo.  
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emanoeljunior21&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeljunior21&layout=compact&theme=radical)
+
+---
+
+## 🌐 Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-link)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=react&logoColor=white)](https://seu-site.com)
+
+---
+💡 "Code + Design + Performance = Front-end de impacto"
