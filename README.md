@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Emanoel Junior  
 
 🎨 Desenvolvedor **Front-End**  
-🚀 Apaixonado por criar interfaces modernas, responsivas e de alto impacto  
+🚀 Criador de interfaces modernas, responsivas e de alto impacto  
 💡 Também tenho experiência com backend e mobile  
 
 ---
