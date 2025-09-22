@@ -53,7 +53,7 @@
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanoel-jr/)  
-📩 **Email:** emanoeljuniorseuemail@exemplo.com  
+📩 **Email:** emanoeljuniordev@gmail.com 
 
 ---
 💡 *“Code + Design + Performance = Experiências digitais incríveis”*
