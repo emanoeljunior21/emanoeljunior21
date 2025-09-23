@@ -1,11 +1,10 @@
-<h1 align="center">👋 Olá, eu sou o Emanoel Junior</h1>
+# 👋 Olá, eu sou o Emanoel Junior  
 
-<p align="center">
-🎨 Desenvolvedor <strong>Front-End</strong> &nbsp;|&nbsp; 🚀 Criador de interfaces modernas e responsivas <br/>
-💡 Experiência em <strong>Backend</strong> e <strong>Mobile</strong>
-</p>
+🎨 Desenvolvedor **Front-End**  
+🚀 Criador de interfaces modernas, responsivas e de alto impacto  
+💡 Também tenho experiência com **Backend** e **Mobile**  
 
-<hr style="border:1px solid #333"/>
+---
 
 ## 🛠️ Tech Stack  
 
@@ -38,27 +37,27 @@
 
 </div>
 
-<hr style="border:1px solid #333"/>
+---
 
 ## 📊 Estatísticas  
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanoeljunior21&show_icons=true&theme=radical&hide_border=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeljunior21&layout=compact&theme=radical&hide_border=true"/>  
-</div>
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanoeljunior21&show_icons=true&theme=radical"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoeljunior21&layout=compact&theme=radical"/>  
+</div>  
 
-<hr style="border:1px solid #333"/>
+---
 
 ## 🌐 Onde me encontrar  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emanoel-jr/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <br/><br/>
-  📩 <strong>Email:</strong> emanoeljuniordev@gmail.com
-</p>
+  </a>  
+  <br/>
+  📩 <strong>Email:</strong> emanoeljuniordev@gmail.com  
+</p>  
 
-<hr style="border:1px solid #333"/>
+---
 
-<h3 align="center">💡 “Code + Design + Performance = Experiências digitais incríveis”</h3>
+💡 *“Code + Design + Performance = Experiências digitais incríveis”*  
