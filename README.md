@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tecnologias  
 
 <div align="center">
 
